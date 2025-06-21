@@ -1,9 +1,7 @@
 #include <iostream>
-#include "Algorithms/test1.h"
-#include "DataStructures/test2.h"
+#include "DataStructures/ArrayList.h"
 
 int main() {
-	hello1();
-	hello2();
+	ArrayListExample();
 	return 0;
 }
