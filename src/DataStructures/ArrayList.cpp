@@ -91,6 +91,7 @@ void ArrayList<T>::printArrayList() const {
 }
 
 void ArrayListExample() {
+	std::cout << "==================== ArrayList Testing ====================\n";
 	ArrayList<int> intList;
 	intList.add(1);
 	intList.add(2);
